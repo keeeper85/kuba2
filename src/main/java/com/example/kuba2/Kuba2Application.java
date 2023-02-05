@@ -10,4 +10,5 @@ public class Kuba2Application {
         SpringApplication.run(Kuba2Application.class, args);
     }
     //test
+    //2nd test
 }
