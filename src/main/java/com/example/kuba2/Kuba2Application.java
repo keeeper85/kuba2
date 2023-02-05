@@ -9,5 +9,5 @@ public class Kuba2Application {
     public static void main(String[] args) {
         SpringApplication.run(Kuba2Application.class, args);
     }
-
+    //test
 }
